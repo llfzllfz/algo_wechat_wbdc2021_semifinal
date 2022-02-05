@@ -1,0 +1,8 @@
+tensorflow-gpu==2.1.0
+pandas==1.2.3
+numpy==1.19.5
+tqdm==4.59.0
+sklearn==0.24.1
+deepctr[gpu]==0.8.5
+lightgbm==3.2.0
+gensim==3.8.3
